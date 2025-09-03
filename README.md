@@ -50,6 +50,7 @@ Other Tools: Jupyter Notebook, Git, GitHub
 Clone the repository:
 
 git clone https://github.com/chetanKhadke21/TNS.git
+
 cd TNS
 
 
