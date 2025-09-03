@@ -2,28 +2,9 @@
 
 This repository contains my work and practice code for Data Structures & Algorithms (DSA), Machine Learning (ML), and Deep Learning (DL). It is aimed at strengthening problem-solving skills, understanding AI/ML concepts, and building hands-on experience with real implementations.
 
-📂 Repository Structure
-├── DSA/                 # Implementation of Data Structures & Algorithms
-│   ├── arrays/
-│   ├── linked_lists/
-│   ├── sorting/
-│   └── dynamic_programming/
-│
-├── Machine_Learning/    # ML algorithms and projects
-│   ├── regression/
-│   ├── classification/
-│   ├── clustering/
-│   └── model_evaluation/
-│
-├── Deep_Learning/       # DL models and experiments
-│   ├── neural_networks/
-│   ├── cnn/
-│   ├── rnn_lstm/
-│   └── transfer_learning/
-│
-└── README.md            # Project documentation
 
 📘 Topics Covered
+
 🔹 Data Structures & Algorithms (DSA)
 
 Arrays, Strings, Linked Lists
@@ -68,8 +49,8 @@ Other Tools: Jupyter Notebook, Git, GitHub
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/chetanKhadke21/TNS.git
+cd TNS
 
 
 Create and activate a virtual environment:
